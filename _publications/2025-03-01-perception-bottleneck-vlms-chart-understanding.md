@@ -1,5 +1,5 @@
 ---
-title: "On the Perception Bottleneck of VLMs for Chart理解"
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-perception-bottleneck-vlms-chart-understanding
